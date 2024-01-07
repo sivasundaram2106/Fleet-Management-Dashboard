@@ -1,8 +1,6 @@
 
 # Fleet Management Dashboard
 
-### https://github.com/sivasundaram2106/Fleet-Management-Dashboard/tree/main
-
 ## Customer Retention Strategies Requirement Summary:
 
 Objective:
